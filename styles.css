@@ -4,3 +4,6 @@ body {
 p {
     color: cyan;
 }
+#main:hover {
+    background-color: blue;
+}
