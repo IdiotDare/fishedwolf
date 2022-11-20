@@ -13,5 +13,6 @@ p {
 
 #frame{
     background-color: #0011ff;
+    width: 75vw ;
     aspect-ratio: 2/1;
 }
