@@ -1,4 +1,5 @@
 
 function clickMe(){
-    document.getElementById("main") = "yeet";
+    let altText = "yeetos"
+    document.getElementById("main") = altText;
 }
