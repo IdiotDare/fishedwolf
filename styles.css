@@ -10,3 +10,8 @@ p {
 #nav {
     background-color: #1f1f1f;
 }
+
+#frame{
+    background-color: #0011ff;
+    aspect-ratio: 2/1;
+}
