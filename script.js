@@ -1,5 +1,9 @@
 
 function clickMe(){
     let altText = "yeetos"
-    document.getElementById("main") = altText;
+    if{
+        document.getElementById("main") != altText
+    } then {
+        document.getElementById("main") = altText;
+    }
 }
