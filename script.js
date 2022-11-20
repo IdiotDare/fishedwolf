@@ -6,5 +6,6 @@ function clickMe(){
          paraText != altText
     } then {
         document.getElementById("main") = altText[0];
+        return document.getElementById("main")
     }
 }
