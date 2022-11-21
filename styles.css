@@ -45,6 +45,8 @@ p {
     position: absolute;
     padding-left: 3vh;
     padding-right: 3vh;
+    animation-name: opacitytest;
+    animation-duration: 4s;
 }
 
 ul {
@@ -68,6 +70,11 @@ a {
 }
 a:hover{
     background-color: #44445b;
+}
+
+@keyframes opacitytest {
+    from { opacity: 0%;}
+    to (opacity: 100%;)
 }
 
 @keyframes boardslide {
