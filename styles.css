@@ -19,6 +19,8 @@ p {
 #frame{
     background-color: #44445b;
     height: 60vh;
+    margin-left: 10vw;
+    margin-right: 10vw;
     aspect-ratio: 16/9;
     align-self: center;
     padding: 5vh 5vh 5vh 5vh;
