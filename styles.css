@@ -14,5 +14,6 @@ p {
 #frame{
     background-color: #44445b;
     width: 75vw ;
-    aspect-ratio: 2/1;
+    aspect-ratio: 19/6;
+    align-self: center;
 }
