@@ -19,12 +19,17 @@ p {
 #frame{
     background-color: #44445b;
     height: 60vh;
-    margin-left: 10vw;
-    margin-right: 10vw;
+    float: left;
     aspect-ratio: 16/9;
     align-self: center;
     padding: 5vh 5vh 5vh 5vh;
     position: relative;
+}
+
+#frameside{
+    float: right;
+    height: 60vh;
+    aspect-ratio: 1/3;
 }
 
 .board {
