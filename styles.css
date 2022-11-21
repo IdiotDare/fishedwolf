@@ -46,19 +46,22 @@ ul {
     display: inline; /*removes line breaks*/
 }
 li {
-    float: left; /*puts each list next to each other*/
+    float: right; /*puts each list next to each other*/
 }
 
 #navhead{
-    float: right;
+    float: left;
 }
-/*
+
 a {
-  display: block; allows to use padding, margin, etc
+  display: block; /*allows to use padding, margin, etc*/
   padding: 8px;
-  background-color: #dddddd;
+  background-color: #333333;
 }
-*/
+a:hover{
+    background-color: #44445b;
+}
+
 #keyframes boardslide {
     from { top: -200px;}
     to {top: 5vh;}
