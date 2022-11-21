@@ -9,6 +9,9 @@ p {
 }
 #nav {
     background-color: #1f1f1f;
+    border-style: solid;
+    border-radius: 5%;
+    border-width: 2vw;
 }
 
 #frame{
