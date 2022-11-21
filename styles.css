@@ -34,8 +34,6 @@ p {
     display: inline-block;
     overflow: hidden;
     position: absolute;
-    animation-name: boardslide;
-    animation-duration: 4s;
     padding-left: 3vh;
     padding-right: 3vh;
 }
@@ -60,6 +58,11 @@ a {
 }
 a:hover{
     background-color: #44445b;
+}
+
+.boardAniClass{
+    animation-name: boardslide;
+    animation-duration: 4s;
 }
 
 #keyframes boardslide {

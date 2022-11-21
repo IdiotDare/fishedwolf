@@ -1,4 +1,6 @@
-
+function boardTest(){
+    document.getElementById("#boardone").classList.add('boardAniClass')
+}
 /*The simple-and-direct approach is to create and add a new style node to the document.
 
 // Your CSS as text
