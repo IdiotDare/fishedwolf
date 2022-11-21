@@ -34,6 +34,11 @@ p {
     border-color: aqua;
 }
 
+@keyframes opacitytest {
+    from { opacity: 0%;}
+    to (opacity: 100%;)
+}
+
 .board {
     width: 20vh;
     aspect-ratio: 2/3;
@@ -72,17 +77,13 @@ a:hover{
     background-color: #44445b;
 }
 
-@keyframes opacitytest {
-    from { opacity: 0%;}
-    to (opacity: 100%;)
-}
 
 @keyframes boardslide {
     from { top: -200px;}
     to {top: 5vh;}
 }
 
-.boardAniClass{
+.boardAniClass {
     animation-name: boardslide;
     animation-duration: 4s;
 }
