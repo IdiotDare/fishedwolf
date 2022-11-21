@@ -10,13 +10,31 @@ p {
 #nav {
     background-color: #1f1f1f;
     border-style: solid;
-    border-radius: 5%;
-    border-width: 2vw;
+    border-radius: 15%;
+    border-width: 0.1vw;
 }
 
 #frame{
     background-color: #44445b;
     width: 75vw ;
-    aspect-ratio: 19/6;
+    aspect-ratio: 16/9;
     align-self: center;
 }
+
+/* The animation code */
+/*@keyframes example {
+    0%   {background-color: red;}
+    25%  {background-color: yellow;}
+    50%  {background-color: blue;}
+    100% {background-color: green;}
+  }
+  
+  /* The element to apply the animation to */
+  /*div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 4s;
+  }
+  */

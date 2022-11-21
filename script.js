@@ -1,4 +1,4 @@
-alert("Not made for mobile. Or really, any screen size besides my own.")
+//alert("Not made for mobile. Or really, any screen size besides my own.")
 
 function clickMe(){
     let altText = ["yeetos"] ;//remember, arrayname.push adds to the end of array
