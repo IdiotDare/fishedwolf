@@ -11,7 +11,7 @@ p {
     background-color: #1f1f1f;
     height: 5vh;
     border-style: solid;
-    border-radius: 50%;
+    border-radius: 1%;
     border-width: 0.1vw;
     border-color: black;
 }
@@ -30,6 +30,7 @@ p {
     background-color: #444444;
     border-style: solid;
     border-width: 1vw;
+    display: inline-block;
 }
 ul {
     list-style-type:none;
