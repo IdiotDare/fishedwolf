@@ -36,7 +36,7 @@ p {
 
 @keyframes opacitytest {
     from { opacity: 0%;}
-    to (opacity: 100%;)
+    to {opacity: 100%;}
 }
 
 .board {
