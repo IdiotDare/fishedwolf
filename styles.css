@@ -60,15 +60,15 @@ a:hover{
     background-color: #44445b;
 }
 
+#keyframes boardslide {
+    from { top: -200px;}
+    to {top: 5vh;}
+}
 .boardAniClass{
     animation-name: boardslide;
     animation-duration: 4s;
 }
 
-#keyframes boardslide {
-    from { top: -200px;}
-    to {top: 5vh;}
-}
 /* The animation code */
 /*@keyframes example {
     0%   {background-color: red;}
