@@ -9,18 +9,36 @@ p {
 }
 #nav {
     background-color: #1f1f1f;
+    height: 5vh;
     border-style: solid;
     border-radius: 15%;
     border-width: 0.1vw;
+    border-color: black;
 }
 
 #frame{
     background-color: #44445b;
-    width: 75vw ;
+    height: 60vh;
     aspect-ratio: 16/9;
     align-self: center;
 }
 
+ul {
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    display: inline; /*removes line breaks*/
+}
+li {
+    float: left; /*puts each list next to each other*/
+}
+/*
+a {
+  display: block; allows to use padding, margin, etc
+  padding: 8px;
+  background-color: #dddddd;
+}
+*/
 /* The animation code */
 /*@keyframes example {
     0%   {background-color: red;}
