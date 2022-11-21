@@ -40,6 +40,10 @@ ul {
 li {
     float: left; /*puts each list next to each other*/
 }
+
+#navhead{
+    float: right;
+}
 /*
 a {
   display: block; allows to use padding, margin, etc
