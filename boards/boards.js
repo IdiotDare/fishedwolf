@@ -1,13 +1,4 @@
-function boardTest(number){
-    if(number == '1'){
-       document.getElementById("#boardone").classList.add("boardAniClass") 
-    } else if(number == '2'){
-        document.getElementById("#boardtwo").classList.add("boardAniClass") 
-    } else if(number=='3'){
-        document.getElementById("#boardthree").classList.add("boardAniClass") 
-    }
-    
-}
+
 /*The simple-and-direct approach is to create and add a new style node to the document.
 
 // Your CSS as text
