@@ -36,6 +36,8 @@ p {
     position: absolute;
     animation-name: boardslide;
     animation-duration: 4s;
+    padding-left: 3vh;
+    padding-right: 3vh;
 }
 ul {
     list-style-type:none;
