@@ -56,7 +56,17 @@ p {
     animation-duration: 4s;
 */    
 }
+#boardone{
+    padding: 2.5% 2.5% 2.5% 2.5%;
+}
 
+#boardtwo{
+    padding: 2.5% 2.5% 2.5% 2.5%;
+}
+
+#boardthree{
+    padding: 2.5% 2.5% 2.5% 2.5%;
+}
 /* you can define height of containing block by %*/
 #boardclick{
     width: 25%;
