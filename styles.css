@@ -58,15 +58,15 @@ p {
 */    
 }
 #boardone{
-    padding: 2.5% 2.5% 2.5% 2.5%;
+    padding: 2.5% 32.5% 2.5% 2.5%;
 }
 
 #boardtwo{
-    padding: 2.5% 2.5% 2.5% 2.5%;
+    padding: 2.5% 32.5% 2.5% 32.5%;
 }
 
 #boardthree{
-    padding: 2.5% 2.5% 2.5% 2.5%;
+    padding: 2.5% 2.5% 32.5% 2.5%;
 }
 /* you can define height of containing block by %*/
 #boardclick{
