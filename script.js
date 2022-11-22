@@ -14,10 +14,13 @@ function boardTest(number){
     var a = document.getElementById('main')
     if(number == '1'){
        document.getElementById("boardone").classList.add("boardAniClass") 
+       document.getElementById("boardone").classList.add("aftani") 
     } else if(number == '2'){
         document.getElementById("boardtwo").classList.add("boardAniClass") 
+        document.getElementById("boardtwo").classList.add("aftani") 
     } else if(number == '3'){
         document.getElementById("boardthree").classList.add("boardAniClass") ;
+        document.getElementById("boardthree").classList.add("aftani") ;
     } else if(number == '4' && a == "Yolo"){
         document.getElementById("main") = "you are dumb";
         }
