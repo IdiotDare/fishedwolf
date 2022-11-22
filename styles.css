@@ -59,7 +59,7 @@ p {
 }
 /* you can define height of containing block by %*/
 #boardclick{
-    width: 10vh;
+    width: 25%;
     aspect-ratio: 3/1;
     float: left;
 }
