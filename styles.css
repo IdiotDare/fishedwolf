@@ -48,7 +48,7 @@ p {
     display: block;
     overflow: hidden;
     float: auto;
-/*    position: absolute;*/
+    position: absolute;
     padding-left: 3vh;
     padding-right: 3vh;
     animation-name: opacitytest;
