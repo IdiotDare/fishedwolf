@@ -11,13 +11,16 @@ function clickThisPls(){
 }
 
 function boardTest(number){
+    var a = document.getElementById('main')
     if(number == '1'){
-       document.getElementById("#boardone").classList.add("boardAniClass") 
+       document.getElementById("boardone").classList.add("boardAniClass") 
     } else if(number == '2'){
-        document.getElementById("#boardtwo").classList.add("boardAniClass") 
-    } else if(number=='3'){
-        document.getElementById("#boardthree").classList.add("boardAniClass") 
-    }
+        document.getElementById("boardtwo").classList.add("boardAniClass") 
+    } else if(number =='3'){
+        document.getElementById("boardthree").classList.add("boardAniClass") ;
+    } else if(number =='4'){
+        document.getElementById("main") = "you are dumb";
+        }
     let y = "kill the clam put her on a stake and "
     return y
 }
