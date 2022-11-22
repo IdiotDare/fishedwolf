@@ -19,5 +19,5 @@ function boardTest(number){
         document.getElementById("#boardthree").classList.add("boardAniClass") 
     }
     let y = "kill the clam put her on a stake and "
-    return 
+    return y
 }
