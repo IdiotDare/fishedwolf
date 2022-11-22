@@ -24,3 +24,22 @@ function boardTest(number){
     let y = "kill the clam put her on a stake and "
     return y
 }
+
+function foodOrder(){
+
+}
+
+/*
+const para = document.createElement("p");
+const node = document.createTextNode("This is new.");
+para.appendChild(node);
+
+const element = document.getElementById("div1");
+element.appendChild(para);
+*/
+/* add id
+g = document.createElement('div');
+g.setAttribute("id", "Div1");
+or
+g.id = 'desiredId'
+*/

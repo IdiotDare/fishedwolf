@@ -56,6 +56,7 @@ p {
 }
 #boardone{
     float: right;
+    overflow: visible;
 }
 /* you can define height of containing block by %*/
 #boardclick{
