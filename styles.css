@@ -45,9 +45,8 @@ p {
     background-color: #444444;
     border-style: solid;
     border-width: 1vw;
-    display: block;
+    display: inline-block;
     overflow: hidden;
-    float: auto;
     position: absolute;
     margin: 0;
     padding: 0;
