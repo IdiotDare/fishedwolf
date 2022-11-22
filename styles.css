@@ -49,15 +49,14 @@ p {
     display: inline-block;
     overflow: hidden;
     position: absolute;
+    float: right;
 /*    margin: 0;
     padding: 3% 3% auto 3%;*/
    /* animation-name: opacitytest;
     animation-duration: 4s;
 */    
 }
-#boardone{
-    float: right;
-}
+
 /* you can define height of containing block by %*/
 #boardclick{
     width: 25%;
