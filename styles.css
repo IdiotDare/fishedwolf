@@ -47,7 +47,7 @@ p {
     border-width: 1vw;
     display: block;
     overflow: hidden;
-    position: absolute;
+/*    position: absolute;*/
     padding-left: 3vh;
     padding-right: 3vh;
     animation-name: opacitytest;
