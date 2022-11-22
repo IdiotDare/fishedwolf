@@ -1,5 +1,6 @@
 //alert("Not made for mobile. Or really, any screen size besides my own.")
-
+var ciao = "nope";
+return ciao;
 function clickThisPls(){
     let altText = ["yeetos"] ;//remember, arrayname.push adds to the end of array
     let paraText = document.getElementById("main");
