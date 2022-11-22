@@ -50,7 +50,7 @@ p {
     overflow: hidden;
     position: absolute;
     float: right;
-    top: -100%;
+    top: -100%; /* change this to a separate class so the animation doesnt reset*/
 /*    margin: 0;
     padding: 3% 3% auto 3%;*/
    /* animation-name: opacitytest;
