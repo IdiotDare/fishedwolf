@@ -49,8 +49,8 @@ p {
     overflow: hidden;
     float: auto;
     position: absolute;
-    padding-left: 3vh;
-    padding-right: 3vh;
+    margin: 0;
+    padding: 0;
     animation-name: opacitytest;
     animation-duration: 4s;
     
