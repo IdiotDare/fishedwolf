@@ -90,17 +90,9 @@ a:hover{
 }
 
 
-/*@keyframes boardslide {
+@keyframes boardslide {
     from { top: -200px;}
     to {top: 5vh;}
-}*/
-@keyframes boardslide {
-    0% {top:-5vh}
-25% {top:-4vh}
-50%{top:-2vh}
-75% {top:0.5vh}
-100%{top: 5vh}
-    
 }
 
 .boardAniClass {
