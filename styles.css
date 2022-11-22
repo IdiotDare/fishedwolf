@@ -44,7 +44,7 @@ p {
     aspect-ratio: 2/3;
     background-color: #444444;
     border-style: solid;
-    border-width: 1vw;
+    border-width: 0.5%;
     display: inline-block;
     overflow: hidden;
     position: absolute;
@@ -53,6 +53,9 @@ p {
     animation-name: opacitytest;
     animation-duration: 4s;
     
+}
+#boardone{
+    float: right;
 }
 /* you can define height of containing block by %*/
 #boardclick{
