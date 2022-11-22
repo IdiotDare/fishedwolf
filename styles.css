@@ -35,10 +35,8 @@ p {
 }
 
 @keyframes opacitytest {
-    from { opacity: 0%;
-        top: -200px;}
-    to {opacity: 100%;
-        top: 5vh;}
+    from { opacity: 0%;}
+    to {opacity: 100%;}
 }
 
 .board {
