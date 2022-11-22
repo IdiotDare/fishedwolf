@@ -28,8 +28,12 @@ function boardTest(number){
     return y
 }
 
-function foodOrder(){
-
+function foodOrder(item){
+ const food = document.createElement("p");
+ const node = document.createTextNode(item)
+ food.appendChild(node);
+ const itemFood = document.getElementById("item");
+ itemFood.appendChild(food);
 }
 
 /*
