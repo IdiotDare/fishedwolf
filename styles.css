@@ -40,7 +40,7 @@ p {
 }
 
 .board {
-    width: 20vh;
+    width: 30%;
     aspect-ratio: 2/3;
     background-color: #444444;
     border-style: solid;
@@ -54,7 +54,7 @@ p {
     animation-duration: 4s;
     
 }
-
+/* you can define height of containing block by %*/
 #boardclick{
     width: 10vh;
     aspect-ratio: 3/1;
